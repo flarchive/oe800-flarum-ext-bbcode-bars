@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of oe800/flarum-ext-bbcode-bars.** Not for installation: use [Packagist](https://packagist.org/packages/oe800/flarum-ext-bbcode-bars) or the [upstream repository](https://github.com/0E800/flarum-ext-bbcode-bars).
 
-**0** versions archived · Latest: [`0.1.5`](https://github.com/flarchive/oe800-flarum-ext-bbcode-bars/tree/archive/v0.1.5) · Flarum: `^0.1.0-beta.6`
+**2** versions archived · Latest: [`0.1.5`](https://github.com/flarchive/oe800-flarum-ext-bbcode-bars/tree/archive/v0.1.5) · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2017-04-12 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-bars/tree/archive/v0.1.0) |
+| `0.1.5` | 2017-04-14 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-bars/tree/archive/v0.1.5) |
 
 Catalog entry: [packages/oe800-flarum-ext-bbcode-bars.json](https://github.com/flarchive/archive-index/blob/main/packages/oe800-flarum-ext-bbcode-bars.json)
 
